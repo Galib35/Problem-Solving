@@ -1,4 +1,5 @@
 // https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&category=0&problem=3678&mosmsg=Submission+received+with+ID+27501665
+// Simple Brute force
 
 #include<bits/stdc++.h>
 using namespace std;
