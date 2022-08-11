@@ -1,4 +1,5 @@
 //   https://lightoj.com/problem/histogram
+//   Time complexicity: O(n)
 
 #include<bits/stdc++.h>
 using namespace std;
