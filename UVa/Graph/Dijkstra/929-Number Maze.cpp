@@ -95,6 +95,7 @@ int main()
 Corner Case: 1st e 0 thakte pare.
 
 1
+3 4
 3 2 1 1
 1 0 4 1
 9 9 9 2
